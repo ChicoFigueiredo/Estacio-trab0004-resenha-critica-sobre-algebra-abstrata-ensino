@@ -31,6 +31,15 @@
   year   = {2021},
 }
 
+@WWW{Stoodi2019,
+  author = {Stoodi},
+  date   = {2019-10-07},
+  editor = {Stoodi},
+  title  = {Ferramentas Matemáticas na Química},
+  url    = {https://www.youtube.com/watch?v=qqreG99-iJQ},
+  year   = {2019},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:T:\\Estudar\\#01-Matematica\\!!03-Sem\\01-EDUCAÇÃO ESPECIAL (CEL1694-3734363) 9004\\Atividade-Estruturada\\Trab003\\bibliografia;}
