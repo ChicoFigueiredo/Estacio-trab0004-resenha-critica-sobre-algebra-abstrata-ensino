@@ -22,6 +22,24 @@
   file        = {:Bezerra2016-01-DISSERTAÇÃO AQUILES ROCHA.pdf:PDF},
 }
 
+@WWW{Souza2021,
+  author = {Altay de Souza},
+  date   = {2021-05-13},
+  editor = {Nerdologia},
+  title  = {Por que é melhor estar menos errado e não mais certo? | Nerdologia},
+  url    = {https://www.youtube.com/watch?v=EoPdXo3hYHc},
+  year   = {2021},
+}
+
+@WWW{Stoodi2019,
+  author = {Stoodi},
+  date   = {2019-10-07},
+  editor = {Stoodi},
+  title  = {Ferramentas Matemáticas na Química},
+  url    = {https://www.youtube.com/watch?v=qqreG99-iJQ},
+  year   = {2019},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:T:\\Estudar\\#01-Matematica\\!!03-Sem\\01-EDUCAÇÃO ESPECIAL (CEL1694-3734363) 9004\\Atividade-Estruturada\\Trab003\\bibliografia;}
