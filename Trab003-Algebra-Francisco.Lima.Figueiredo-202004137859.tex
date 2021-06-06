@@ -161,6 +161,9 @@
 	\fi
 }%
 
+% Citação online --- MODIFICAR ---
+\newcommandx{\citeaa}[2][2=]{\citeauthoronline{#1}~(\citeyear{#1}#2)}
+
 
 \label{oculto-programinhas}
 %-----------------------------------------
@@ -202,9 +205,6 @@
 
 % Personalização das opções das listas
 \setlist[itemize]{leftmargin=\parindent}
-
-% Citação online --- MODIFICAR ---
-\newcommandx{\citeaa}[2][2=]{\citeauthoronline{#1}~(\citeyear{#1})}
 
 \newcommand{\me}[1]{Elaborado pelo autor, #1.}
 
@@ -767,13 +767,12 @@
 % -----------------------------------------------------------------
 \textual
 		
-\chapter{Objetivos}
-
-	Efetuar uma reflexão a partir dos textos de \citeaa{Elias2017} e \citeaa{Bezerra2016}
-
-
 
 \chapter{Introdução}
+	\section{Objetivos}
+		Efetuar uma reflexão a partir da leitura dos textos de \citeaa{Elias2017} e \citeaa{Bezerra2016} referente ao uso da álgebra formal, notadamente corpos e anéis, como elemento de compreensão e evolução da álgebra ensinada no ensino fundamental e médio.
+		
+		
 	\section{XXX} 
 		\subsection{XXX} 
 
