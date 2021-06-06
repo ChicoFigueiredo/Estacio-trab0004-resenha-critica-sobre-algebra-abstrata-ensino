@@ -1,11 +1,13 @@
 % Encoding: UTF-8
 
 @Article{Elias2017,
-  author       = {Henrique Rizek Elias;Angela Marta Pereira das Dores Savioli},
+  author       = {Henrique Rizek {}Elias;Angela Marta Pereira das {}Dores Savioli},
   date         = {2017},
   journaltitle = {Encontro paranaense de Educação Matemática},
   title        = {Os números racionais, a estrutura algébrica corpo e a formação matemática do professor},
   year         = {2017},
+  url          = {http://www.sbemparana.com.br/eventos/index.php/EPREM/XIV_EPREM/paper/view/174/63},
+  urldate      = {2021-06-06},
   file         = {:Elias2017-02-174-1089-1-PB.pdf:PDF},
 }
 
@@ -16,6 +18,7 @@
   title       = {Ensino da álgebra: uso da linguagem e do pensamento algébrico como ferramenta de aprendizagem na educação básica},
   type        = {mathesis},
   year        = {2016},
+  url         = {https://www.ri.unir.br/jspui/bitstream/123456789/1623/1/DISSERTAÇÃO AQUILES ROCHA.pdf},
   file        = {:Bezerra2016-01-DISSERTAÇÃO AQUILES ROCHA.pdf:PDF},
 }
 
