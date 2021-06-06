@@ -1,0 +1,23 @@
+% Encoding: UTF-8
+
+@Article{Elias2017,
+  author       = {Henrique Rizek Elias; Angela Marta Pereira das Dores Savioli},
+  date         = {2017},
+  journaltitle = {Encontro paranaense de Educação Matemática},
+  title        = {Os números racionais, a estrutura algébrica corpo e a formação matemática do professor},
+  year         = {2017},
+  file         = {:Elias2017-02-174-1089-1-PB.pdf:PDF},
+}
+
+@Thesis{Bezerra2016,
+  author      = {Aquiles Rocha Lira Bezerra},
+  date        = {2016-12-01},
+  institution = {UNIR - Universidade Federal de Rondônia},
+  title       = {Ensino da álgebra: uso da linguagem e do pensamento algébrico como ferramenta de aprendizagem na educação básica},
+  type        = {mathesis},
+  year        = {2016},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:T:\\Estudar\\#01-Matematica\\!!03-Sem\\01-EDUCAÇÃO ESPECIAL (CEL1694-3734363) 9004\\Atividade-Estruturada\\Trab003\\bibliografia;}
