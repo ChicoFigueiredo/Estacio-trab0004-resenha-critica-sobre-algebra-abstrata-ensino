@@ -52,6 +52,7 @@
 \usepackage{tikz}								% Pacote de Figuras
 \usepackage[american, cuteinductors,smartlabels, fulldiode, siunitx, americanvoltages, oldvoltagedirection, smartlabels]{circuitikz}						% Pacote de circuitos elétricos
 \usepackage{lipsum}
+\usepackage{xargs}
 
 \usepackage{hyperref}
 % informações do PDF
@@ -203,7 +204,7 @@
 \setlist[itemize]{leftmargin=\parindent}
 
 % Citação online --- MODIFICAR ---
-\newcommand{\citeaa}[1]{\citeauthoronline{#1}~(\citeyear{#1})}
+\newcommandx{\citeaa}[2][2=]{\citeauthoronline{#1}~(\citeyear{#1})}
 
 \newcommand{\me}[1]{Elaborado pelo autor, #1.}
 
@@ -768,7 +769,7 @@
 		
 \chapter{Objetivos}
 
-	Efetuar uma reflexão a partir dos textos de \citeaa{Elias2017} e \citeaa{Elias2017} \citeaa{Bezerra2016}
+	Efetuar uma reflexão a partir dos textos de \citeaa{Elias2017} e \citeaa{Bezerra2016}
 
 
 
